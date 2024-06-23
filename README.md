@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨🏻‍💻Student at **Amrita Vishwa Vidyapeetham , Chennai Campus🏫**
+- 👨🏻‍💻Student at **Amrita Vishwa Vidyapeetham , Chennai Campus**
 
 - 💬 Ask me about **Competetive coding , Development**
 
