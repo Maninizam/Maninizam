@@ -10,7 +10,11 @@
 
 - 🔭 I’m currently working on **competitive programming**
 
-- 🌱 I’m currently learning **DSA,WEB DEVELOPMENT**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 👨🏻‍💻Student at Amrita Vishwa Vidyapeetham , Chennai Campus🏫
+
+- 💬 Ask me about **Competetive coding , Development**
 
 - 📫 How to reach me **maninizam29@gmail.com**
 
