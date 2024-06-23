@@ -7,6 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+- 🔭 I’m currently working on **competitive programming**
+
+- 🌱 I’m currently learning **DSA,WEB DEVELOPMENT**
+
 - 📫 How to reach me **maninizam29@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
