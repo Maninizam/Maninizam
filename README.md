@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nizam Manikanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/099c8d3a56f7e88824798bdb3709a06e575354b36c3dc1f23d9266e55f9220d9/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032322f31312f686972652d66756c6c2d737461636b2d646576656c6f70657273313534363530373437343331372d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maninizam&label=Profile%20views&color=0e75b6&style=flat" alt="maninizam" /> </p>
 
