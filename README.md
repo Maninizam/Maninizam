@@ -21,7 +21,7 @@
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="">
 <a href="https://www.linkedin.com/in/nizam-manikanta-3b67b6265/">
     <img src="https://img.shields.io/badge/-LinkedIn-ffffa0?style=for-the-badge&logo=linkedin&logoColor=0C61BF" />
 </a>          
