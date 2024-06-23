@@ -16,9 +16,11 @@
 
 - 💬 Ask me about **Competetive coding , Development**
 
+- 🤔 I’m looking for help to get into a **internship.**
+
 - 📫 How to reach me **maninizam29@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="">
